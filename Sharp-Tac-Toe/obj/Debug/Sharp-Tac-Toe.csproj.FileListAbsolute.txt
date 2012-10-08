@@ -1,0 +1,9 @@
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\bin\Debug\Sharp-Tac-Toe.exe.config
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\bin\Debug\Sharp-Tac-Toe.exe
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\bin\Debug\Sharp-Tac-Toe.pdb
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\obj\Debug\Sharp-Tac-Toe.csprojResolveAssemblyReference.cache
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\obj\Debug\Sharp_Tac_Toe.frmGameBoard.resources
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\obj\Debug\Sharp_Tac_Toe.Properties.Resources.resources
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\obj\Debug\Sharp-Tac-Toe.csproj.GenerateResource.Cache
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\obj\Debug\Sharp-Tac-Toe.exe
+D:\projects\c#\Sharp-Tac-Toe\Sharp-Tac-Toe\obj\Debug\Sharp-Tac-Toe.pdb
